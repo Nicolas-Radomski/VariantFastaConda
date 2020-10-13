@@ -5,7 +5,7 @@ The main Python script VariantFastaConda.py aims at transforming a vcf file from
 - The module genomic.py has to be with the present main script VariantFastaConda.py to launch it properly.
 - The Conda environment PairedEndVariantCalling has to be prepared as presented below.
 - The user can setup his own dependencies in his own bin.
-- The input indexed reference and .vcf file must be preferably prepared with PairedEndVariantConda.py and VariantAlignmentConda.py, respectively.
+- The input indexed reference and .vcf file must be preferably prepared with the main scripts PairedEndVariantConda.py and VariantAlignmentConda.py, respectively.
 - The user can use as input his own .vcf file and indexed reference.
 # Dependencies
 The main script VariantFastaConda.py and module genomic.py (version 20201006) were prepared and tested with Conda packages below (Name/Version/Build/Channel).
