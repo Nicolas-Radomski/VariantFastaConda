@@ -1,5 +1,5 @@
 # Usage
-The main Python script VariantFastaConda.py aims at transforming a vcf file from the main scripts PairedEndVariant.py and VariantAlignmentConda.py into a multi-fasta file for downtream phylogenomic analyses, including unvariable sites from the single contig reference genome, as well as single nucleotide polymorphisms (SNPs) and/or small Insertions/Deletions (InDels) from each samples.
+The main Python script VariantFastaConda.py aims at transforming a vcf file from the main scripts PairedEndVariantConda.py and VariantAlignmentConda.py into a multi-fasta file for downtream phylogenomic analyses, including unvariable sites from the single contig reference genome, as well as single nucleotide polymorphisms (SNPs) and/or small Insertions/Deletions (InDels) from each samples.
 - The present main script VariantFastaConda.py corresponds to an adaptation with Python3 of the main script VCFtoPseudoGenome.py that Arnaud Felten developped with Python2.
 - The main script VariantFastaConda.py and module genomic.py (version 20201006, October 2020) were prepared and tested with Python and dependencies below.
 - The module genomic.py has to be with the present main script VariantFastaConda.py to launch it properly.
