@@ -45,7 +45,7 @@ source /global/conda/bin/activate;conda activate PairedEndVariantCalling; \
 python /global/bio/projets/GAMeR/Nicolas-Radomski/PairedEndVariant/VariantFastaConda.py \
 	-i /global/bio/projets/GAMeR/Nicolas-Radomski/PairedEndVariant/VariantCalling/7_alignment/filtered.snps.indels.vcf \
 	-ref /global/bio/projets/GAMeR/Nicolas-Radomski/PairedEndVariant/VariantCalling/1_reference/Enteritidis_P125109.fasta \
-	-o /global/bio/projets/GAMeR/Nicolas-Radomski/PairedEndVariant/VariantCalling/8_matrix/results \
+	-o /global/bio/projets/GAMeR/Nicolas-Radomski/PairedEndVariant/VariantCalling/7_alignment/results.fasta \
 	--NoINDELs
 ```
 ## 2/ run the Bash script bash_VariantFastaConda.sh with sbatch
