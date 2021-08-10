@@ -53,6 +53,6 @@ python /global/bio/projets/GAMeR/Nicolas-Radomski/PairedEndVariant/VariantFastaC
 sbatch bash_VariantFastaConda.sh
 ```
 # Acknowledgment
-My old colleagues Arnaud Felten and Ludovic Mallet with whom I learned a lot
+My old colleagues Arnaud Felten and Ludovic Mallet with whom I learned a lot about Python
 # Author
 Nicolas Radomski
