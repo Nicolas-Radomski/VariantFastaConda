@@ -54,6 +54,10 @@ sbatch bash_VariantFastaConda.sh
 ```
 # Illustration
 ![Workflow](https://github.com/Nicolas-Radomski/VariantFastaConda/blob/main/illustration.png)
+# References
+- First version (i.e. GATK-SNP calling): Lee R.S., N. Radomski, J.F. Proulx, I. Levade, B.J. Shapiro, F. McIntosh, H. Soualhine, D. Menzies and M.A. Behr. Population genomics of Mycobacterium tuberculosis in the Inuit. 2015, Proceedings of the National Academy of Sciences of the United States of America, PNAS, 112(44): 13609-13614, doi: 10.1073/pnas.1507071112
+- Second version (i.e. VarCall): Felten A., M. Vila Nova, K. Durimel, L. Guillier, M.Y. Mistou and N. Radomski. First gene-ontology enrichment analysis based on bacterial coregenome variants: insights into adaptations of Salmonella serovars to mammalian- and avian-hosts. 2017, BMC Microbiology, 17(222): 1-20, doi.org/10.1186/s12866-017-1132-1
+- Third verion (): Vila Nova M, Durimel K., La K., Felten A., Bessières P., Mistou M.Y., Mariadassou M. and N. Radomski. Genetic and metabolic signatures of Salmonella enterica subsp. enterica associated with animal sources at the pangenomic scale. 2019, BMC Genomics, 20(1): 814, doi: 10.1186/s12864-019-6188-x
 # Acknowledgment
 My old colleagues Arnaud Felten and Ludovic Mallet with whom I learned a lot about Python
 # Author
