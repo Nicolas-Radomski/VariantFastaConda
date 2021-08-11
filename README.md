@@ -52,6 +52,8 @@ python /global/bio/projets/GAMeR/Nicolas-Radomski/PairedEndVariant/VariantFastaC
 ```
 sbatch bash_VariantFastaConda.sh
 ```
+# Illustration
+![Workflow](https://github.com/Nicolas-Radomski/VariantFastaConda/blob/main/illustration.png)
 # Acknowledgment
 My old colleagues Arnaud Felten and Ludovic Mallet with whom I learned a lot about Python
 # Author
