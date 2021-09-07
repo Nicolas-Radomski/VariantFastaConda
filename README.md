@@ -59,6 +59,6 @@ sbatch bash_VariantFastaConda.sh
 - Second version (i.e. VarCall): Felten A., M. Vila Nova, K. Durimel, L. Guillier, M.Y. Mistou and N. Radomski. First gene-ontology enrichment analysis based on bacterial coregenome variants: insights into adaptations of Salmonella serovars to mammalian- and avian-hosts. 2017, BMC Microbiology, 17(222): 1-20, doi.org/10.1186/s12866-017-1132-1
 - Third version (i.e. iVarCall2): Vila Nova M, Durimel K., La K., Felten A., Bessières P., Mistou M.Y., Mariadassou M. and N. Radomski. Genetic and metabolic signatures of Salmonella enterica subsp. enterica associated with animal sources at the pangenomic scale. 2019, BMC Genomics, 20(1): 814, doi: 10.1186/s12864-019-6188-x
 # Acknowledgment
-My old colleagues Arnaud Felten and Ludovic Mallet with whom I learned a lot about Python
+My former colleagues Arnaud Felten and Ludovic Mallet with whom I learned a lot about Python
 # Author
 Nicolas Radomski
